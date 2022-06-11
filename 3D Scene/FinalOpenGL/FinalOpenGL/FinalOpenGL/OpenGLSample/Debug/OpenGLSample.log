@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\OpenGLSample\OpenGLSample\OpenGLSample\Source.cpp(9,20): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\OpenGLSample\OpenGLSample\OpenGLSample\Source.cpp(122,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  OpenGLSample.vcxproj -> C:\OpenGLSample\OpenGLSample\Debug\OpenGLSample.exe

@@ -1,0 +1,2 @@
+﻿  3dgame.cpp
+C:\Users\HP\source\repos\3D chair\3dgame\3dgame.cpp(1,10): fatal error C1083: Cannot open include file: 'bits/stdc++.h': No such file or directory
